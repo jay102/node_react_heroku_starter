@@ -15,4 +15,6 @@ npm test
 Eslint was also added<br />
 npm lint
 
+ORM used was sequelize which has been initialized
+
 React was used for the frontend plus Bootstrap
